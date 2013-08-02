@@ -1,8 +1,9 @@
-README for Inf0rm3r Script
+Inf0rm3r Scripts
 
-SCRIPT: Inf0rm3r.sh
-VERSION: 1
-Author: Hood3dRob1n
-DESC: Linux x86 System Enumeration Tool to grab a solid understanding of what your working with
+Series of Scripts which perform various Unix enumeration or cleanup. 
+Includes: System enumeration, Exploit Suggester, and Log Cleaner. 
+
+The Ruby scrips all use default standard libs so should be able to run on most systems with Ruby support.
+
 
 
